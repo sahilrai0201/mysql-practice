@@ -15,3 +15,5 @@ VALUES
 (3, "casey", 40000);
 
 SELECT * FROM employee_info;
+
+DROP DATABASE XYZ;
