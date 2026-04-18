@@ -10,4 +10,11 @@ CREATE TABLE student(
 INSERT INTO student VALUES(1, "RAHUL", 23);
 INSERT INTO student VALUES(2, "DIPTI", 22); 
 
-SELECT * FROM student;
+SELECT * FROM student; 
+
+SHOW DATABASES;
+SHOW TABLES;
+
+DROP TABLE student;
+
+DROP DATABASE college;
